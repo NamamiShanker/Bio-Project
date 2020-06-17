@@ -8,13 +8,9 @@ Thanks for using my script.
 
 
 American Samoa
-
 Guam
-
 Northern Mariana Islands
-
 Puerto Rico
-
 Virgin Islands
 Alabama
 Alaska
